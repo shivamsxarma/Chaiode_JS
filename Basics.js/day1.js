@@ -94,6 +94,23 @@ console.log(fruit)
 fruit.forEach ((element) => console.log(`---->> ${element}`));
 // concatinate kara diya dono ko string ko or function ko $ sign see
 
+//map
+// ye puri cheej ek sath ho sakti haii;
+
+const numbers = [1,2,3,4,5,6];
+
+// const result = [];
+
+// for(let i = 0; i<numbers.length;i++){
+//     result.push(numbers[i]*2)
+// }
+
+// console.log(result)
+
+const result = numbers.map((e) => e*2);
+console.log(result);
+
+
 
 
 
