@@ -12,3 +12,4 @@ console.log(typeof age)
 console.log(typeof isLoggedIn)
 console.log(typeof value)
 console.log(typeof password)
+

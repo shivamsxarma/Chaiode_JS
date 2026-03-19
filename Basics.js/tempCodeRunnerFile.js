@@ -1,2 +1,3 @@
-const UserAllowedToOpenBankAcc = (eligibility , minBalance) => eligibility>=18 && minBalance>=10000;
-// console.log(UserAllowedToOpenBankAcc(18,2000))
+
+// console.log(myarr2.includes(10))
+// console.log(myarr2)
