@@ -40,3 +40,4 @@ js.greeting2 = function()
     console.log(`hellow js user , ${this.age }`)
 }
 js.greeting2()
+
