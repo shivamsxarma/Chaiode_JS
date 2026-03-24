@@ -53,4 +53,30 @@
 //     console.log(`username is ${anyobject.username} and price is ${anyobject.price} `)
 // }
 
-// handleobj(user)
+// // handleobj(user)
+// handleobj({
+//     username : "sam",
+//     price:399,
+// })
+
+// const myNewArray = [200,499,100,600]
+// function returnSecondValue(getArray){
+//     return getArray[1]
+// }
+
+// console.log(returnSecondValue(myNewArray))
+
+// const user = {
+//     username:"shivam ",
+//     price:999,
+
+//     welcomeMessage:function(){
+//         console.log(`${this.username}, welcome at mt website`)
+//     }
+
+
+
+
+// }
+
+// user.welcomeMessage()
